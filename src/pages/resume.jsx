@@ -23,7 +23,7 @@ const Resume = () => {
     return (
         <div className='main-container'>
             <Document file={"./yun-resume.pdf"} >
-                <Page pageNumber={1}/>
+                <Page pageNumber={1} renderTextLayer={false} />
             </Document>
         </div>
     )
