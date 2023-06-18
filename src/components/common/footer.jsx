@@ -22,6 +22,9 @@ const Footer = () => {
 							<Link to="/articles">Articles</Link>
 						</li>
 						<li className="footer-nav-link-item">
+							<Link to="/resume">Resume</Link>
+						</li>
+						<li className="footer-nav-link-item">
 							<Link to="/contact">Contact</Link>
 						</li>
 					</ul>
@@ -29,7 +32,7 @@ const Footer = () => {
 
 				<div className="footer-credits">
 					<div className="footer-credits-text">
-						© 2023 yunchen.dev
+						© 2023 Yun Chen
 						<div>
 							All Rights Reserved.
 
