@@ -3,14 +3,11 @@ import React from "react";
 function article_1() {
 	return {
 		date: "7 May 2023",
-		title: "The Benefits of Cloud Computing",
+		title: "Example Article 1",
 		description:
-			"Cloud computing offers a range of benefits, including cost savings and increased flexibility. Find out why more businesses are turning to the cloud.",
+			"Example Description.",
 		keywords: [
-			"The Benefits of Cloud Computing",
-			"Tharindu",
-			"Tharindu N",
-			"Tharindu Nayanajith",
+			"Example Keyword",
 		],
 		style: `
 				.article-content {
@@ -42,15 +39,13 @@ function article_1() {
 function article_2() {
 	return {
 		date: "7 May 2023",
-		title: "Artificial Intelligence in Healthcare",
+		title: "Example Article 2",
 		description:
-			"AI is transforming the healthcare industry, from improving patient outcomes to streamlining operations. Discover the latest applications of this game-changing technology.",
+			"Example Description.",
+
 		style: ``,
 		keywords: [
-			"Artificial Intelligence in Healthcare",
-			"Tharindu",
-			"Tharindu N",
-			"Tharindu Nayanajith",
+			"Example Keyword",
 		],
 		body: (
 			<React.Fragment>

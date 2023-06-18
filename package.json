@@ -1,11 +1,11 @@
 {
 	"name": "reactfolio",
 	"version": "1.1.0",
-	"homepage": "https://yunchendev.github.io/reactfolio/",
+	"homepage": "https://yunchen.dev",
 	"description": "Personal portfolio template built using Reactjs",
 	"author": {
 		"name": "Yun Chen",
-		"email": "yunchendev@gmail.com",
+		"email": "mail@yunchen.dev",
 		"url": "https://yunchen.dev"
 	},
 	"license": "MIT",

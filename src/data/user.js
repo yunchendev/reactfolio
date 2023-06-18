@@ -2,7 +2,7 @@ const INFO = {
 	main: {
 		title: "Yun Chen",
 		name: "Yun Chen",
-		email: "yunchendev@gmail.com",
+		email: "mail@yunchen.dev",
 		logo: "../logo.png",
 	},
 
@@ -27,9 +27,9 @@ const INFO = {
 	},
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+		// 	title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		// 	description:
+		// 		"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
 	},
 
 	projects: [
